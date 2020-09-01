@@ -1,0 +1,12 @@
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/bin/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.deps.json
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/bin/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.runtimeconfig.json
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/bin/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.runtimeconfig.dev.json
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/bin/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.dll
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/bin/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.pdb
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.csprojAssemblyReference.cache
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.AssemblyInfoInputs.cache
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.AssemblyInfo.cs
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.csproj.CoreCompileInputs.cache
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.dll
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.pdb
+/Users/andystearman/Desktop/C#/Practice Loops and Conditionals in C#/obj/Debug/netcoreapp3.1/Practice Loops and Conditionals in C#.genruntimeconfig.cache
